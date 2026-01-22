@@ -1,8 +1,3 @@
-
-Francesco Saoner <saonerf@gmail.com>
-4:21 PM (0 minutes ago)
-to me
-
 # S3 - Simple Storage Service
 
 In questa esercitazione ho usato Amazon S3 come storage cloud.
